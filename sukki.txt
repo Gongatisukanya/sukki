@@ -1,0 +1,13 @@
+x-special/nautilus-clipboard
+copy
+file:///home/sukanya/Pictures/Screenshot%20from%202023-07-10%2007-59-53.png
+x-special/nautilus-clipboard
+copy
+file:///home/sukanya/Pictures/Screenshot%20from%202023-07-10%2008-00-11.png
+x-special/nautilus-clipboard
+copy
+file:///home/sukanya/Pictures/Screenshot%20from%202023-07-10%2008-00-22.png
+x-special/nautilus-clipboard
+copy
+file:///home/sukanya/Pictures/Screenshot%20from%202023-07-10%2008-00-47.png
+
